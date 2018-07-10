@@ -1,0 +1,6 @@
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/deepeshhmehta/HungerWalkiOS.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/deepeshhmehta/HungerWalkAndroid.git
